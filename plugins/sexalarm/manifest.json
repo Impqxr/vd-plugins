@@ -1,0 +1,14 @@
+{
+  "name": "SEX ALARM",
+  "description": "Sex alarm",
+  "authors": [
+      {
+          "name": "Impqxr",
+          "id": 458605907245400064
+      }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+      "icon": "ic_megaphone_nsfw_16px"
+  }
+}
